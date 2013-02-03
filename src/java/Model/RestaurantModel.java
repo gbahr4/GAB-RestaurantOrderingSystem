@@ -4,7 +4,7 @@ package Model;
 /**
  * Purpose: Restaurant Ordering System Controller
  * Author: Greg Bahr
- * Revision: 1.0
+ * Revision: 2.0
  */
 public class RestaurantModel {
     private double price1, price2,price3,price4,price5;

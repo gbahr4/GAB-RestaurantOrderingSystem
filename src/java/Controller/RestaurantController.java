@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Purpose: Restaurant Ordering System Controller
  * Author: Greg Bahr
- * Revision: 1.0
+ * Revision: 2.0
  */
 public class RestaurantController extends HttpServlet {
     private static final String RESULT_PAGE = "/bill.jsp";
